@@ -5,8 +5,7 @@
 > i've made this project from scratch, it's a simple idea of food delivery app -pizza to be specifc-
 > ,simply visitors/customers can visit the website and choose from variety of pizza's and add it to their cart
 > opening the cart will allow them to see what they choose and giving them options to increase/decrease items or clear the entire cart
-
-## when they finally made their decision they have to fill form requiring some necessary info for the delivery and directly it'll be send to our backend server with their cart items -i've used firestore as my backend server-.
+> when they finally made their decision they have to fill form requiring some necessary info for the delivery and directly it'll be send to our backend server with their cart items -i've used firestore as my backend server-.
 
 ## what did used in the project
 
